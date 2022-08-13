@@ -1,0 +1,39 @@
+body {
+    background: radial-gradient(
+    134.34% 134.34% at 50% 0%,
+    #1f3757 0%,
+    #131537 100%
+  );
+}
+
+#score-title {
+    color: #2a45c2;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 2.5px;
+}
+
+.hover-item {
+    transition: 0.3s ease-in-out;
+}
+
+
+
+.hover-item:hover {
+
+
+    transform: scale(1.1);
+
+
+}
+
+@media (max-width:1160px) {
+    #rock {
+        left:35%!important;
+    }
+    #scissors {
+        left: 43%!important;
+    }
+}
