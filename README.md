@@ -1,2 +1,4 @@
 # rock-paper-scissors
-can you beat this incredibly hard BOT ?
+# Can You Beat This Incredibly Hard BOT ?
+
+# a simple rock-paper-scissors game developed using jquery
